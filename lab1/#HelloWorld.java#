@@ -1,0 +1,13 @@
+/**
+cs180 -blk lab 1
+zheng wu,wu673@purdue.edu session:816
+ **/
+
+import javax.swing.*;
+
+public class HelloWorld{
+    public static void main(String[] args){
+	JOptionPane.showMessageDialog(null,"Hello World!");
+	
+    }
+}
